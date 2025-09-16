@@ -15,6 +15,7 @@ let userState;
 // boolean ==> true/false
 // null ==> standalone value (empty value) ==> It is a object datatype
 // undefined
+//symbol
 
 
 // object
