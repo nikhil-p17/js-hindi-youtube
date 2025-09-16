@@ -13,12 +13,13 @@ let userState;
 // bigint
 // string ==> text
 // boolean ==> true/false
-// null ==> standalone value (empty value) ==> It is a object
+// null ==> standalone value (empty value) ==> It is a object datatype
 // undefined
 
 
 // object
 
-console.log(typeof null);
+console.log(typeof undefined);
+console.log(typeof null); // this will thorw value as object
 
 //console.table(typeof[userId, userEmail, userPassword, userCity]);
